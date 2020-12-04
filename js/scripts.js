@@ -40,3 +40,10 @@
         target: "#sideNav",
     });
 })(jQuery); // End of use strict
+
+
+
+
+    GitHubCalendar(".calendar", "smdedar");
+    // or enable responsive functionality
+    GitHubCalendar(".calendar", "smdedar", { responsive: true });
